@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-01-n8n-보안-강화](n8n/2026-03-01-n8n-보안-강화.md)
+
 - [2026-02-21-n8n-중복-실행-버그](n8n/2026-02-21-n8n-중복-실행-버그.md)
 
 - [2026-02-21-DuckDNS-Lets-Encrypt-CAA-오류](n8n/2026-02-21-DuckDNS-Lets-Encrypt-CAA-오류.md)
