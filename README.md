@@ -41,6 +41,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-13-가위바위보-승률-분석](ai-agent/2026-03-13-가위바위보-승률-분석.md)
+
 - [2026-03-13-가위바위보-승리-확률-분석](ai-agent/2026-03-13-가위바위보-승리-확률-분석.md)
 
 - [2026-03-12-멀티모달의-이해](ai-agent/2026-03-12-멀티모달의-이해.md)
